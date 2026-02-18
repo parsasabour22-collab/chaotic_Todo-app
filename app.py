@@ -16,3 +16,4 @@ class ChaoticMind:
 
     def load_from_file(self, filename="mind.json"):
         pass
+#test
